@@ -1,6 +1,6 @@
 # Baby GNU & TUX
 
-This are the 3D files necessary for printing the baby Tux and the baby GNU.
+This are the 3D files necessary for printing baby Tux and baby GNU.
 
 <img src="https://raw.githubusercontent.com/rougier/baby-gnu-tux/master/baby-gnu-tux.jpg">
 
