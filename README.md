@@ -4,7 +4,7 @@ This are the 3D files necessary for printing baby Tux and baby GNU.
 
 <img src="https://raw.githubusercontent.com/rougier/baby-gnu-tux/master/baby-gnu-tux.jpg">
 
-[](https://github.com/rougier/baby-gnu-tux/blob/master/baby-gnu.stl)
+![](https://github.com/rougier/baby-gnu-tux/blob/master/baby-gnu.stl)
 
 
 # License
