@@ -1,6 +1,6 @@
 # Baby GNU & TUX
 
-This are the 3D files necessary for printing baby Tux and baby GNU.
+This are the 3D files necessary for printing baby Tux and baby GNU and a rigged version of baby-GNU for animations. (Instructions can be found inside blender file)
 
 <img src="https://raw.githubusercontent.com/rougier/baby-gnu-tux/master/baby-gnu-tux.jpg">
 
